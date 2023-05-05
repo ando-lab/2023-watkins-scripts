@@ -6,7 +6,7 @@ Author: Haoyue Wang :star:
 
 ## Repository Contents
 - Four Jupyter notebooks.
-- The required files are also attached. Note that the 4915 pdb files are provided as a .zip file. You can download it to test. The code to directly download the structures from the deepmind database is also provided. 
+- The required files are also attached. Note that the 4915 pdb files can be downloaded as a .zip file for testing. The code to directly download the structures from the deepmind database is also provided. 
 ## Instructions for use
 In order to run the code successfully, creating a new conda environment with requied dependencies is suggested:
 ```python
