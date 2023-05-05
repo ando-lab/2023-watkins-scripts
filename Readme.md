@@ -5,8 +5,9 @@ Demonstration of how the 4915 Alphafold predictions of the cobalamin-dependent m
 Author: Haoyue Wang 🌙
 
 ## Repository Contents
-- Four Jupyter notebooks.
-- The required files are also attached. Note that the 4915 pdb files can be downloaded as a .zip file for testing from the release asset. The code to directly download the structures from the deepmind database is also provided. 
+- Four Jupyter notebooks (#1 - #4).
+- Two required .csv files. 
+- The 4915 pdb files can be downloaded as a .zip file for testing from the release asset. The code to directly download the structures from the deepmind database is also provided (#3). 
 ## Instructions for use
 In order to run the code successfully, creating a new conda environment with requied dependencies is suggested:
 ```python
