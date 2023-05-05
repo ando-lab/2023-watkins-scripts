@@ -2,7 +2,7 @@
 
 Demonstration of how the 4915 Alphafold predictions of the cobalamin-dependent methionine synthase (MetH) were analyzed in our paper [Watkins *et al* 2023](https://www.biorxiv.org/content/10.1101/2023.02.11.528079v1).
 
-Author: Haoyue Wang 🌙:
+Author: Haoyue Wang 🌙
 
 ## Repository Contents
 - Four Jupyter notebooks.
